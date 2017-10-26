@@ -1,0 +1,9 @@
+body {
+	background-image: url("assets/images/rps.jpg");
+}
+
+#game {
+	width: 500px;
+	height: auto;
+	background: #ddd;
+}
